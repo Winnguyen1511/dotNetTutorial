@@ -1,0 +1,7 @@
+G:\Csharp\Project\EmployeeManager\bin\Debug\EmployeeManager.exe.config
+G:\Csharp\Project\EmployeeManager\bin\Debug\EmployeeManager.exe
+G:\Csharp\Project\EmployeeManager\bin\Debug\EmployeeManager.pdb
+G:\Csharp\Project\EmployeeManager\obj\Debug\EmployeeManager.csprojAssemblyReference.cache
+G:\Csharp\Project\EmployeeManager\obj\Debug\EmployeeManager.csproj.CoreCompileInputs.cache
+G:\Csharp\Project\EmployeeManager\obj\Debug\EmployeeManager.exe
+G:\Csharp\Project\EmployeeManager\obj\Debug\EmployeeManager.pdb
